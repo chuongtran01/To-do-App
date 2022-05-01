@@ -1,4 +1,4 @@
-# Portfolio-Website
+# Todo App
 
 
 ---
@@ -15,16 +15,15 @@ You're sections headers will be used to reference location of destination.
 
 ## Description
 
-A portfolio website that provides a convenient way to view my information and experience.
+A To-do list app let you add tasks and delete a task that is completed. User can organize the tasks as 'All', 'Active', and 'Completed'. 
 
 #### Technologies
 
 - HTML
 - CSS
 - Javascript
-- ReactJS
 
-[Back To The Top](#Portfolio-Website)
+[Back To The Top](#Todo-App)
 
 ---
 
@@ -33,11 +32,10 @@ A portfolio website that provides a convenient way to view my information and ex
 ---
 
 ## References
-- [EGATOR]
-- [Iconify](https://iconify.design/)
-- [React Icons](https://react-icons.github.io/react-icons/)
+- [Fullstack.edu.vn](https://fullstack.edu.vn/)
+- [Klerith](https://github.com/Klerith/TODO-CSS-Template)
 
-[Back To The Top](#Portfolio-Website)
+[Back To The Top](#Todo-App)
 
 ---
 
@@ -48,4 +46,4 @@ A portfolio website that provides a convenient way to view my information and ex
 
 - Linkedln - [Chuong Tran](https://www.linkedin.com/in/chuongtran2001/)
 
-[Back To The Top](#Portfolio-Website)
+[Back To The Top](#Todo-App)
