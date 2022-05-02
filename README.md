@@ -42,7 +42,7 @@ A To-do list app let you add tasks and delete a task that is completed. User can
 
 ---
 
-## Author Info
+## Author Information
 
 - Linkedln - [Chuong Tran](https://www.linkedin.com/in/chuongtran2001/)
 
